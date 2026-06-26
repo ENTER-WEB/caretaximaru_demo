@@ -1,2 +1,5 @@
 assets/_backup_icons/
 assets/*-old.png
+index.src.html
+_enc/
+.staticrypt-password.txt
