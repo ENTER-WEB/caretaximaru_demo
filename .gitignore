@@ -3,3 +3,4 @@ assets/*-old.png
 index.src.html
 _enc/
 .staticrypt-password.txt
+staticrypt-template.html
